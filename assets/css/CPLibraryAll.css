@@ -18,12 +18,12 @@
 }
 .playbarBackGround
 {
-	height:45px;
+	height:38px;
 }
 .playbarSmallButton
 {
-	width:51px;
-	height:36px;
+	width:25px;
+	height:24px;
 	float:left;
 	display:inline;
 	-moz-user-select: none; 
@@ -34,8 +34,8 @@
 .playbarSmallButton:hover {cursor:pointer;} 
 .playbarBigButton
 {
-	width:80px;
-	height:36px;
+	width:48px;
+	height:28px;
 	float:left;
 	display:inline;
 	-moz-user-select: none; 
